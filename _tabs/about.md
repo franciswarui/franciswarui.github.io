@@ -3,7 +3,7 @@ title: about
 icon: fas fa-user
 ---
 
-Hello, I am Result-driven economist specializing in data analysis with cutting-edge technology and AI. A go-getter to make the society more equitable. Passionate about data and AI, machine learning and DL to explore how we can use these available systems to solve real-world issues and make our society a better place.
+Hello, I am Result-driven economist. Data analysist with cutting-edge technology and AI. A go-getter to make the society more equitable. Passionate about data and AI, machine learning and DL to explore how we can use these available systems to solve real-world issues and make our society a better place.
 
 My key areas of interest are:
 
