@@ -37,8 +37,11 @@ ML is a subset of AI that focuses on building systems that can learn from data, 
 
 ## 🧩Types of Learning:
 🔹Supervised Learning: The model is trained on labeled data (input and desired output are provided). Used for prediction and classification (e.g., predicting house    prices, classifying spam).
+
 🔹Unsupervised Learning: The model is trained on unlabeled data and must find hidden patterns and structure on its own. Used for clustering and dimensionality         reduction (e.g., market segmentation).
+
 🔹Reinforcement Learning (RL): The model learns through trial and error, taking actions in an environment to maximize a cumulative reward (e.g., training a game-      playing AI or optimizing a robot's movements).
+
 🔹Deep Learning (DL): A sub-field of ML that uses Artificial Neural Networks (ANNs) with many layers (hence "deep"). DL is responsible for the recent breakthroughs    in image recognition, NLP, and complex tasks.
 ---
 
