@@ -21,5 +21,4 @@ My key areas of interest are:
 ✍️ I am currently studying a course for data and AI, where I’ve being doing tasks to deepen my knowledge in Data science and use of AI. 
       
 🥍 My long term goal is to use these available systems for better solutions and analysis that are effective and beneficial to the society.
-My Resume.pdf
 
