@@ -1,7 +1,7 @@
 ---
 title: "data wrangling project"
 categories: [introduction, task completed, conclusion]
-tags:[discovery, structuring, cleaning, errors, validation]
+tags: [discovery, structuring, cleaning, errors, validation]
 ---
 ## data discovery
 First in imported the data as pd to load the Netflix dataset into the kaggle notebook. 
