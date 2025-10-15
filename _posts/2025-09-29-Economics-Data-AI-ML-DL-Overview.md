@@ -1,7 +1,7 @@
 ---
-title: 'a journey to Economics, Data Science, AI, ML and DL'
+title: 'My journey to Economics, Data Science, AI, ML and DL'
 categories: [Economics,Data Science, AI]
-tags: [Economics, Data analysis, Data Science, Artificial Intelligence, Machine Learning]
+tags: [Economics, Data analysis, Data Science, Artificial Intelligence, Machine Learning, deep learning]
 ---
 
 ## 🧩A summary on Economics
@@ -42,7 +42,7 @@ ML is a subset of AI that focuses on building systems that can learn from data, 
 
 🔹Reinforcement Learning (RL): The model learns through trial and error, taking actions in an environment to maximize a cumulative reward (e.g., training a game-      playing AI or optimizing a robot's movements).
 
-🔹Deep Learning (DL): A sub-field of ML that uses Artificial Neural Networks (ANNs) with many layers (hence "deep"). DL is responsible for the recent breakthroughs    in image recognition, NLP, and complex tasks.
+🔹Deep Learning (DL): A sub-field of ML that uses Artificial Neural Networks (ANNs) with many layers (hence "deep"). DL is responsible for the recent breakthroughs  in image recognition, NLP, and complex tasks.
 ---
 
 
