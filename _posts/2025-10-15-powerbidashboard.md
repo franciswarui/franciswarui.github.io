@@ -9,7 +9,7 @@ Atiiq Grands owned multiple five-star hotels across India. had been in the indus
 ---
 
 
-## here is the link to the drive that host my power bi dashboard work: 
+## here is the link to the drive that host my power bi dashboard for the stakeholders: 
 https://drive.google.com/drive/folders/1Um3rCQRceU1PcQjitkTHACa7SXIDWdpS?usp=drive_link
 ---
 
